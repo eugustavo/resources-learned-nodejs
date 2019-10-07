@@ -7,9 +7,9 @@
 
 ---
 
-<p align="center">
-As informações contidas aqui estão totalmente relacionadas aos meus estudos/experiências com Node. Pretendo deixar esse repositório como referência do que sei e do que pretendo aprender.
-</p>
+> As informações contidas aqui estão totalmente relacionadas aos meus estudos/experiências com Node. Pretendo deixar esse repositório como referência do que sei e do que pretendo aprender.
+
+---
 
 
 :books: Features
