@@ -1,12 +1,15 @@
-Estudos e Aprendizados em NodeJS
-===
+<div align="center">
+    <img alt="nodejs" src="https://i.imgur.com/UWcGsaO.png" height="120px" />
+    <h1 align="center">
+         Estudos e Aprendizados em NodeJS
+    </h1>
+</div>
+
 ---
 
-:::info
-
+<p align="center">
 As informações contidas aqui estão totalmente relacionadas aos meus estudos/experiências com Node. Pretendo deixar esse repositório como referência do que sei e do que pretendo aprender.
-
-:::
+</p>
 
 
 :books: Features
